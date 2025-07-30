@@ -18,3 +18,13 @@ To run the test code, simply execute the following notebook:
 
 ```bash
 test.ipynb
+```
+
+## Dataset and Pretrained Models
+To reproduce the results, please download the required files from Google Drive:
+
+Test Dataset: [Dataset download link](https://github.com/kMinsAlgorithm/HiMSELF)
+
+Pretrained Model Parameters: Model download link](https://github.com/kMinsAlgorithm/HiMSELF)
+
+⚠️ After downloading, place the files in the correct directories as specified in test.ipynb.
