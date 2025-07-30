@@ -25,6 +25,13 @@ To reproduce the results, please download the required files from Google Drive:
 
 Test Dataset: [Dataset download link](https://github.com/kMinsAlgorithm/HiMSELF)
 
-Pretrained Model Parameters: Model download link](https://github.com/kMinsAlgorithm/HiMSELF)
+Pretrained Model Parameters: [Model download link](https://github.com/kMinsAlgorithm/HiMSELF)
 
 ⚠️ After downloading, place the files in the correct directories as specified in test.ipynb.
+
+```bash
+test_data.pkl→./data/test_data.pkl
+
+hierachical_models.pkl→./models/hierachical_models.pkl
+```
+
